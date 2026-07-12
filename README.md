@@ -1,3 +1,10 @@
+# Pull private repo from my personal ACC
+
+```bash
+git clone git@github-cdr:Nahin-CDR/{repo-name}.git
+```
+
+
 
 ---
 
